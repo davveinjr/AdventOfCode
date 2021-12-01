@@ -22,9 +22,11 @@ print($part1_answer);
 
     # Part 2 - Part 1, but instead we are using sum of 3 measurements as a sliding window
 
+print("\n");
+
 function Part2($data) {
     $counter = 0;
-    for($i = 1; $i < (count($data) - 1); $i++) {
+    for($i = 1; $i < (count($data) - 2); $i++) {
         $current_sum = $data[$i] + $data[$i + 1] + $data[$i + 2];
         $prev_sum = $data[$i] + $data[$i - 1] + $data[$i + 1];
 
