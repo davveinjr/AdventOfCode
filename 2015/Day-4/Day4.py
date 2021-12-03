@@ -3,10 +3,6 @@ import hashlib
 
 puzzle_input = "bgvyzdsv"
 
-# Need to MD5 hash the above input  
-# How on earth does an MD5 hash work? 
-
-
 def Part1(key):
     coin = 0
     while not hashlib.md5((key+str(coin)).encode("utf-8")).hexdigest().startswith("00000"):
