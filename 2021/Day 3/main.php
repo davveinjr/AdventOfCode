@@ -39,7 +39,7 @@ function Part1($data){
 
 $p1_answer = Part1($input);
 
-print("Answer to part 1 is: {$p1_answer}");
+print("Answer to part 1 is: {$p1_answer}\n");
 
 # Part 2 - Life Support Rating = Oxygen Generator Rating * C02 Scrubber Rating
 function FindValue($num_list, $weight = 0){
@@ -82,8 +82,6 @@ function FindValue($num_list, $weight = 0){
 function Part2($data){
     $oxygen = FindValue($data, 1);
     $co2 = FindValue($data, 0);
-    $survival_rating = 0;
-
 
     $survival_rating = base_convert($oxygen, 2, 10) * base_convert($co2, 2 ,10);
     return($survival_rating);

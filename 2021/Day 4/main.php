@@ -9,5 +9,5 @@ $data = explode("\n\r", $input);
 #declare global variables
 $numbers = $data[0];
 
-
+print($numbers);
 print($data[1]);
