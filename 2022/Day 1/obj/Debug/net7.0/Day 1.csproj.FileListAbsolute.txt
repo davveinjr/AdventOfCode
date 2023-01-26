@@ -1,0 +1,15 @@
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\bin\Debug\net7.0\Day 1.exe
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\bin\Debug\net7.0\Day 1.deps.json
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\bin\Debug\net7.0\Day 1.runtimeconfig.json
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\bin\Debug\net7.0\Day 1.dll
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\bin\Debug\net7.0\Day 1.pdb
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\Day 1.csproj.AssemblyReference.cache
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\Day 1.AssemblyInfoInputs.cache
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\Day 1.AssemblyInfo.cs
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\Day 1.csproj.CoreCompileInputs.cache
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\Day 1.dll
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\refint\Day 1.dll
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\Day 1.pdb
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\Day 1.genruntimeconfig.cache
+C:\Users\dstephanoff\Documents\AdventOfCode\2022\Day 1\obj\Debug\net7.0\ref\Day 1.dll
